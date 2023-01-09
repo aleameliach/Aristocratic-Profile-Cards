@@ -4,7 +4,7 @@
 
 ### THE TEAM:
 
-- Alejandra Ameliach: [@Ameliach9](https://github.com/aleameliach)
+- Alejandra Ameliach: [@aleameliach](https://github.com/aleameliach)
 - Bella García: [@bellita85](https://github.com/bellita85)
 - Blanca Ubis: [@blancaum](https://github.com/blancaum)
 
