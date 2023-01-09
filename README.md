@@ -1,18 +1,18 @@
-# LAS DUQUESAS
+# 👑LAS DUQUESAS👑
 
-¡Hola! Este es nuestro proyecto grupal final del Bootcamp de Adalab. En él hemos desarrollado tanto el front end como el back end y por tanto utilizamos Railway para poder publicarlo y que tenga su propia URL. 
+¡Howdy! In this repository you'll find our final proyect as students of Adalab's Web Developer Bootcamp. We've coded both front and back end of this proyect and it's published using Railway.
 
-### El equipo:
+### THE TEAM:
 
+- Alejandra Ameliach: [@Ameliach9](https://github.com/aleameliach)
 - Bella García: [@bellita85](https://github.com/bellita85)
 - Blanca Ubis: [@blancaum](https://github.com/blancaum)
-- Alejandra Ameliach: [@Ameliach9](https://github.com/Ameliach9)
 
 
-Url del proyecto final: https://project-promo-r-module-4-team-4-production.up.railway.app/
+Proyect's URL: https://project-promo-r-module-4-team-4-production.up.railway.app/
 
 
-## Descripción 
+## 📋 PROJECT DESCRIPTION📋
 
 En nuestra página puedes crear una tarjeta de presentación totalmente personalizada, eligiendo el color que más te guste y añadiendo tu nombre, profesión, rango salarial, si estás buscando trabajo, foto y links a tu email, teléfono, linkedin y github.
 
@@ -66,6 +66,6 @@ En la raíz del proyecto:
 1. Ejecuta `npm start` o `npm run dev`.
 1. Abre la página http://localhost:3000
 
-### Gracias por visitarnos!
+### Thanks for checking out our proyect!
 
-Cualquier feedback es bienvenido. Somos junior y queremos seguir creciendo en este mundo
+Any feedback would be highly appreciated as we are juniour developers👩🏻‍💻
