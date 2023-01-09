@@ -68,4 +68,4 @@ En la raíz del proyecto:
 
 ### Thanks for checking out our proyect!
 
-Any feedback would be highly appreciated as we are juniour developers👩🏻‍💻
+Any feedback would be highly appreciated as we are junior developers👩🏻‍💻
