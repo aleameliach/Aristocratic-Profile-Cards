@@ -31,6 +31,27 @@ This project was inspired by **La Duquesa de Alba**, a Spanish pop icon, and has
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## WHAT CAN YOU DO?
+
+* You can **create a beautifully aristocratic profile card** that has your: name, job, profile image, email, phone, expected salary, both Github and LinkedIn handles and if you're looking for a job. You'll be able to see how it's gonna look in real time. 
+
+![Screen Shot 2023-01-11 at 18 47 32 PM](https://user-images.githubusercontent.com/111571376/211881266-54413228-fb4c-4b8d-8b2b-092c787bbc14.png)
+
+* **Choose a color palette** that best suits you personality.
+
+
+![Screen Shot 2023-01-11 at 18 47 15 PM](https://user-images.githubusercontent.com/111571376/211881326-530bd0e6-28b4-4dc9-96fb-5b4d82e927ec.png)
+
+* Fill in you card. Our page will automatically generate your card and embed it so that you can tweet about it.
+
+
+![Screen Shot 2023-01-11 at 18 49 55 PM](https://user-images.githubusercontent.com/111571376/211881295-18f060d0-f4d9-42cf-aaaf-50b266feb803.png)
+
+* **Tweet it!**
+
+
+![Screen Shot 2023-01-11 at 18 50 42 PM](https://user-images.githubusercontent.com/111571376/211881310-264d0f94-3c70-4cdd-94a7-72f9afbb8965.png)
+
 
 ## How to start this proyect on your computer
 
