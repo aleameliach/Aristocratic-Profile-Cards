@@ -2,7 +2,7 @@
 
 ¡Howdy! In this repository you'll find our final proyect as students of Adalab's Web Developer Bootcamp. We've coded both front and back end of this proyect and it's published using Railway.
 
-### THE TEAM:
+### THE TEAM👩🏻‍💻👩🏻‍💻👩🏻‍💻
 
 - Alejandra Ameliach: [@aleameliach](https://github.com/aleameliach)
 - Bella García: [@bellita85](https://github.com/bellita85)
@@ -14,28 +14,29 @@ Proyect's URL: https://project-promo-r-module-4-team-4-production.up.railway.app
 
 ## 📋 PROJECT DESCRIPTION📋
 
-En nuestra página puedes crear una tarjeta de presentación totalmente personalizada, eligiendo el color que más te guste y añadiendo tu nombre, profesión, rango salarial, si estás buscando trabajo, foto y links a tu email, teléfono, linkedin y github.
+On this page you can create a totally **personalized business profile card**, choosing the color palette that best suits your personality and adding your contact details like: name, profession, salary range, if you are looking for a job, photo and links to your email, telephone, linkedin and github.
 
-Además, una vez creada la tarjeta, puedes compartirla en Twitter (opción por defecto) o en cualquier otra red social con el link que te damos de la tarjeta.
+Also, once the card is created, you can share it on Twitter (default option) or on any other social network with the link that we give you for the card.
 
-## Tecnologías utilizadas
+This project was inspired by **La Duquesa de Alba**, a Spanish pop icon, and has a bit of a humorous undertone, but the coding it's completely serious. 
 
-- HTML
-- CSS/SASS
-- React
-- Node JS
-- Nodemon
-- Express JS
-- SQL
-- SQLite Browser
-- Ejs
+##  :hammer_and_wrench: TECHNOLOGIES AND LANGUAGES :hammer_and_wrench:
+
+![https://github-readme-stats.vercel.app/api?username=marocena26&show_icons=true&theme=transparent](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-## Cómo arrancar este proyecto en tu ordenador
+## How to start this proyect on your computer
 
-> Ten en cuenta que el editor de código que hemos usado es Visual Studio Code.
+> Keep in mind that we used Visual Studio Code as a code editor.
 
-- Asegúrate de tener todas las tecnologías que mencionamos arriba instaladas en tu PC, ejecútalas en tu terminal y configúralas en tu fichero index.js
+- Make sure you have all of the technologies mentioned above installed in your PC and run them in your terminal.
 
   `sudo npm install -g nodemon`
 
@@ -46,26 +47,26 @@ Además, una vez creada la tarjeta, puedes compartirla en Twitter (opción por d
   `npm install ejs`
 
 
-- Una vez que ya tienes el proyecto preparado:
+- Once you've followed the steps above:
 
-### Arranca el backend:
+### Start the backend:
 
-En la raíz del proyecto
+On the proyect's source:
 
-1. Ejecuta `npm install`
-1. Ejecuta `npm start` o `npm run dev`.
+1. Run `npm install`
+2. Run `npm start` o `npm run dev`.
 
-El backend se arrancará en http://localhost:4000
+The backend will start in http://localhost:4000
 
-### Arranca el frontend:
+### Start the frontend:
 
-En la raíz del proyecto:
+On the proyect's source:
 
-1. Ejecuta `cd web`.
-1. Ejecuta `npm install`.
-1. Ejecuta `npm start` o `npm run dev`.
-1. Abre la página http://localhost:3000
+1. Run `cd web`.
+2. Run `npm install`.
+3. Run `npm start` o `npm run dev`.
+4. Open http://localhost:3000
 
 ### Thanks for checking out our proyect!
 
-Any feedback would be highly appreciated as we are junior developers👩🏻‍💻
+Any feedback would be highly appreciated as we are junior developers✍🏼
