@@ -69,4 +69,5 @@ On the proyect's source:
 
 ### Thanks for checking out our proyect!
 
-Any feedback would be highly appreciated as we are junior developers✍🏼 Y olé! 💃🏻
+Any feedback would be highly appreciated as we are junior developers✍🏼 
+**Y olé! 💃🏻**
