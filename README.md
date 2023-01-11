@@ -1,4 +1,4 @@
-# 🌹ARISTOCRATIC PROFILE CARDS🌹
+# 👑🌹ARISTOCRATIC PROFILE CARDS🌹👑
 
 ¡Howdy! In this repository you'll find our final proyect as students of Adalab's Web Developer Bootcamp. We've coded both front and back end of this proyect and it's published using Railway.
 
@@ -69,4 +69,4 @@ On the proyect's source:
 
 ### Thanks for checking out our proyect!
 
-Any feedback would be highly appreciated as we are junior developers✍🏼
+Any feedback would be highly appreciated as we are junior developers✍🏼 Y olé! 💃🏻
